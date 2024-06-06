@@ -1,7 +1,7 @@
 # snakes_and_ladders
 Welcome to the Snake and Ladder game, a classic board game implemented using Python and Pygame. This project brings the fun and excitement of the traditional game to your computer screen.
 
-<img src="gui.png" alt="Alt text">
+<img src="gui.png" alt="Alt text"  width="600" height="400">
 
 # Features
 - **Interactive Gameplay**: Play the classic Snake and Ladder game with two players.
